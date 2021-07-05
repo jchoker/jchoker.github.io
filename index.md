@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Welcome!
-subtitle: Innovate at scale, in the cloud and for the cloud
+subtitle: Amazing journey in coding
 use-site-title: true
 ---
 
 Hello and welcome to my blog! I’m Jalal Choker, a software engineer with 15+ years of programming experience.
 
-I’ve learned a lot over the years about programmings and fielded a lot of questions about C#, Java and other programming languages.
+I’ve learned a lot over the years about programming languages and fielded a lot of questions about C#, Java and other programming languages.
 * [Virtual Private Network (VPN)](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpn-connections.html) service, which provides encrypted connectivity to your Virtual Private Cloud (VPC);
 * [AWS Transit Gateway](https://aws.amazon.com/transit-gateway/) service, which provides centralized connectivity and management across thousands of networks;
 * [AWS Transit Gateway Network Manager](https://aws.amazon.com/transit-gateway/network-manager/), which provides a single global view of your private network.
