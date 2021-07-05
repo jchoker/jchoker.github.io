@@ -8,7 +8,9 @@ use-site-title: true
 Hello and welcome to my blog! I’m Jalal Choker, a software engineer with 15+ years of programming experience.
 
 I’ve learned a lot over the years about programming languages and fielded a lot of questions about C#, Java and other programming languages.
-* [Virtual Private Network (VPN)](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpn-connections.html) service, which provides encrypted connectivity to your Virtual Private Cloud (VPC);
+
+My interests are:
+* [High-Level Languages](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpn-connections.html) languages with strong abstraction from the details of the computer, the amount of abstraction provided defines how "high-level" a language is;
 * [AWS Transit Gateway](https://aws.amazon.com/transit-gateway/) service, which provides centralized connectivity and management across thousands of networks;
 * [AWS Transit Gateway Network Manager](https://aws.amazon.com/transit-gateway/network-manager/), which provides a single global view of your private network.
 
