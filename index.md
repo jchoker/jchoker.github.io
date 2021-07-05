@@ -16,4 +16,4 @@ My interests are:
 
 I received a Bachelor's degree in Computer Engineering from [Department of Computer Engineering at Ferdowsi University of Mashhad](http://en.um.ac.ir/content/Department-of-Computer-Engineering).
 
-This is my personal blog. I write about pretty much everything that I care about. I hope you finding it interesting and helpful. Recently I have been solving algorithmic problems on various online platforms.
+This is my personal blog. I write about pretty much everything that I care about. I hope you finding it interesting and helpful. If you have a question, you can contact me directly, try emailing jalal.choker@gmail.com..
