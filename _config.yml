@@ -43,6 +43,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jalal.choker@gmail.com"
+  stackoverflow: jchoker
   linkedin: jalalchoker
 #  instagram: yourname
   github: jchoker
@@ -53,7 +54,6 @@ social-network-links:
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
-   stackoverflow: jchoker
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
