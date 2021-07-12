@@ -2,7 +2,7 @@
 layout: page
 title: Welcome!
 subtitle: Amazing journey in coding
-use-site-title: true
+use-site-title: false
 ---
 
 Hello and welcome to my blog! I’m Jalal Choker, a software engineer with 15+ years of programming experience.
