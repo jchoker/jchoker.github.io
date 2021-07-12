@@ -7,7 +7,7 @@ use-site-title: true
 
 Hello and welcome to my blog! I’m Jalal Choker, a software engineer with 15+ years of programming experience.
 
-I’ve learned a lot over the years about programming languages and fielded a lot of questions about C#, Java and other programming languages.
+I’ve learned a lot over the years about programming languages, software design and algorithms.
 
 My interests are:
 * [High-Level Languages](https://isaaccomputerscience.org/topics/programming_languages) languages with strong abstraction from the details of the computer, the amount of abstraction provided defines how "high-level" a language is.
