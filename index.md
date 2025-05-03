@@ -10,7 +10,7 @@ Hello and welcome to my blog! I’m Jalal Choker, a software engineer with 15+ y
 I’ve learned a lot over the years about programming, systems, languages, software design and algorithms.
 
 My interests are:
-* [Distributed Systems](https://www.splunk.com/en_us/blog/learn/distributed-systems.html) especially scalability, security and fault tolerance in blockchains.
+* [Distributed Systems](https://www.splunk.com/en_us/blog/learn/distributed-systems.html) especially scalability, security and fault tolerance in [blockchains](https://www.ibm.com/think/topics/blockchain).
 * [High-Level Languages](https://isaaccomputerscience.org/topics/programming_languages) languages with strong abstraction from the details of the computer, the amount of abstraction provided defines how "high-level" a language is.
 * [Algorithm Design](https://mitpress.mit.edu/books/introduction-algorithms-third-edition/) A good algorithm is fundamental to efficient programs and good software design. Knowing the space–time trade-off and the data structures to choose among is required for being an exemplary programmer. 
 
