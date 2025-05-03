@@ -5,7 +5,7 @@ subtitle: Amazing journey in computing
 use-site-title: false
 ---
 
-Hello and welcome to my blog! I’m Jalal Choker, a software engineer with 15+ years of programming experience.
+Hello and welcome to my blog! I’m Jalal Choker, a software engineer and a computer scientist.
 
 I’ve learned a lot over the years about programming, systems, languages, software design and algorithms.
 
