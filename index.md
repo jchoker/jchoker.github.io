@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome!
-subtitle: Amazing journey in coding
+subtitle: Amazing journey in computing
 use-site-title: false
 ---
 
