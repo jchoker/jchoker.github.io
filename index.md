@@ -11,7 +11,7 @@ I’ve learned a lot over the years about programming, systems, languages, softw
 
 My interests are:
 * [Distributed Systems](https://www.splunk.com/en_us/blog/learn/distributed-systems.html) especially scalability, security and fault tolerance in [blockchains](https://www.ibm.com/think/topics/blockchain).
-* [Cryptography](https://www.ibm.com/think/topics/cryptography): The practice of developing and using coded algorithms to protect and obscure transmitted information so that it may only be read by those with the permission and ability to decrypt it. Put differently, cryptography obscures communications so that unauthorized parties are unable to access them.
+* [Cryptography](https://www.ibm.com/think/topics/cryptography): The practice of developing and using coded algorithms to protect and obscure transmitted information so that it may only be read by those with the permission and ability to decrypt it.
 * [Software Design](https://martinfowler.com/architecture/): The shared understanding that the expert developers have of the system design. The decisions one wishes to get right early in a project.
 * [Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition/): A good algorithm is fundamental to efficient programs and good software design. Knowing the space–time trade-off and the data structures to choose among is required for being an exemplary programmer. 
 
