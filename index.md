@@ -15,6 +15,6 @@ My interests are:
 * [Software Design](https://martinfowler.com/architecture/): The shared understanding that the expert developers have of the system design. The decisions one wishes to get right early in a project.
 * [Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition/): A good algorithm is fundamental to efficient programs and good software design. Knowing the space–time trade-off and the data structures to choose among is required for being an exemplary programmer. 
 
-I received a master's degree from the [Department of Computer Science at Loughborough University, UK](https://www.lboro.ac.uk/departments/compsci/) and a bachelor's degree in Computer Engineering from the [Department of Computer Engineering at Ferdowsi University of Mashhad](http://ce.um.ac.ir/index.php?lang=en).
+I received a master's degree from the [Department of Computer Science at Loughborough University, UK](https://www.lboro.ac.uk/departments/compsci/) and a bachelor's degree in Computer Engineering<!--- from the [Department of Computer Engineering at Ferdowsi University of Mashhad](http://ce.um.ac.ir/index.php?lang=en) --->.
 
 This is my personal blog. I write about pretty much everything that I care about. I hope you finding it interesting and helpful. If you have a question, you can contact me directly, try emailing jalal.choker@gmail.com..
