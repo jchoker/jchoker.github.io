@@ -5,9 +5,9 @@ subtitle: Amazing journey in computing
 use-site-title: false
 ---
 
-Hello and welcome to my blog! I’m Jalal Choker, a software engineer and a computer scientist.
+Hello and welcome to my blog! I’m Jalal Choker, an engineer and a computer scientist.
 
-I’ve learned a lot over the years about programming, systems, languages, software design and algorithms.
+I’ve learned a lot over the years about computing, AI, programming, systems, and algorithms.
 
 My interests are:
 * [Distributed Systems](https://www.splunk.com/en_us/blog/learn/distributed-systems.html) especially scalability, security and fault tolerance in [blockchains](https://www.ibm.com/think/topics/blockchain).
