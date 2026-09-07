@@ -5,13 +5,13 @@ subtitle: Amazing journey in computing
 use-site-title: false
 ---
 
-Hello and welcome to my blog! I’m Jalal Choker, an engineer and a computer scientist.
+Hello and welcome to my blog! I’m Jalal, an engineer and a computer scientist.
 
 I’ve learned a lot over the years about computing, AI, programming, security, systems, and algorithms.
 
 My interests are:
 * [AI](https://en.wikipedia.org/wiki/Artificial_intelligence): The capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making.
-* [Distributed Systems](https://www.splunk.com/en_us/blog/learn/distributed-systems.html) especially scalability, security and fault tolerance in [blockchains](https://www.ibm.com/think/topics/blockchain).
+* [Distributed Systems](https://www.splunk.com/en_us/blog/learn/distributed-systems.html): A group of independent computers i.e. nodes, that work together as a single system. These nodes communicate over a network to share data, resources, and tasks to achieve a common goal.
 * [Cryptography](https://www.ibm.com/think/topics/cryptography): The practice of developing and using coded algorithms to protect and obscure transmitted information so that it may only be read by those with the permission and ability to decrypt it.
 * [Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition/): A good algorithm is fundamental to efficient programs and good software design. Knowing the space–time trade-off and the data structures to choose among is required for being an exemplary programmer. 
 
